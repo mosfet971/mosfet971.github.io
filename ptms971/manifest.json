@@ -1,0 +1,20 @@
+{
+  "short_name": "ptms971",
+  "name": "ptms971",
+  "icons": [
+    {
+      "src": "/ptms971/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/ptms971/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/ptms971/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "theme_color": "#FFFFFF"
+}
